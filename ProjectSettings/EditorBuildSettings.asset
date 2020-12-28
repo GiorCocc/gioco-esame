@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Ui/StartScreen.unity
+    guid: 7ba3e838c2f904c89a63e1e183298b36
+  - enabled: 1
+    path: Assets/Scenes/Livelli/Level 1 - Giorgio.unity
+    guid: 1955248e9666f8e41a3f69c07ad2705f
+  - enabled: 1
+    path: Assets/Scenes/Livelli/Livello 3 - Martina.unity
+    guid: 618342c9b2e809a4081e483ed27925d7
+  - enabled: 1
+    path: Assets/Scenes/Livelli/Level 2 - Alessandro.unity
+    guid: f8d4388b280f344918d169dfdf2e32f9
+  - enabled: 1
+    path: Assets/Scenes/Ui/StartScreen 1.unity
+    guid: 4f933f5d138757941977b6c02db5da06
+  m_configObjects: {}

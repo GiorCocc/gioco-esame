@@ -1,0 +1,1087 @@
+fileFormatVersion: 2
+guid: 2153f622b0c745c49a7ab78758e8c1ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7760452719979941480
+    second: sheet_dark_0
+  - first:
+      213: -6237582929037173417
+    second: sheet_dark_1
+  - first:
+      213: 5044139975776686535
+    second: sheet_dark_2
+  - first:
+      213: 1074323636228012954
+    second: sheet_dark_3
+  - first:
+      213: -6951958157509298344
+    second: sheet_dark_4
+  - first:
+      213: 4008680432326321194
+    second: sheet_dark_5
+  - first:
+      213: -4319145761284643946
+    second: sheet_dark_6
+  - first:
+      213: 8441621737993097757
+    second: sheet_dark_7
+  - first:
+      213: -3892611822077008344
+    second: sheet_dark_8
+  - first:
+      213: -2009376319244615083
+    second: sheet_dark_9
+  - first:
+      213: 1415731139595513829
+    second: sheet_dark_10
+  - first:
+      213: -7121965822074272440
+    second: sheet_dark_11
+  - first:
+      213: -860511976921720981
+    second: sheet_dark_12
+  - first:
+      213: -28059000571335531
+    second: sheet_dark_13
+  - first:
+      213: -8721039469019404677
+    second: sheet_dark_14
+  - first:
+      213: 3277134688284687933
+    second: sheet_dark_15
+  - first:
+      213: -8554255971043871064
+    second: sheet_dark_16
+  - first:
+      213: -8138623832135276383
+    second: sheet_dark_17
+  - first:
+      213: 7876682165793890528
+    second: sheet_dark_18
+  - first:
+      213: -3963304449251587518
+    second: sheet_dark_19
+  - first:
+      213: 6062664590554967872
+    second: sheet_dark_20
+  - first:
+      213: -5500313997615320748
+    second: sheet_dark_21
+  - first:
+      213: 5768594887212560536
+    second: sheet_dark_22
+  - first:
+      213: -367502419122959049
+    second: sheet_dark_23
+  - first:
+      213: -6013855407667279337
+    second: sheet_dark_24
+  - first:
+      213: 4194920780293460616
+    second: sheet_dark_25
+  - first:
+      213: 2291638573019527151
+    second: sheet_dark_26
+  - first:
+      213: -6281196518152823759
+    second: sheet_dark_27
+  - first:
+      213: -161328595925351873
+    second: sheet_dark_28
+  - first:
+      213: -5605800830479619332
+    second: sheet_dark_29
+  - first:
+      213: 1454508755426796310
+    second: sheet_dark_30
+  - first:
+      213: -8307023221302614939
+    second: sheet_dark_31
+  - first:
+      213: 8425850543458166824
+    second: sheet_dark_32
+  - first:
+      213: -8755834811030347084
+    second: sheet_dark_33
+  - first:
+      213: 8073337934527536842
+    second: sheet_dark_34
+  - first:
+      213: -3304854702527225576
+    second: sheet_dark_35
+  - first:
+      213: -2263148809353079052
+    second: sheet_dark_36
+  - first:
+      213: -1063837777308572096
+    second: sheet_dark_37
+  - first:
+      213: 5263188075737789885
+    second: sheet_dark_38
+  - first:
+      213: -8836730094237560487
+    second: sheet_dark_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_dark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e81805ba2186043aed31cb43cad143
+      internalID: 7760452719979941480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518611e19196b804099d3259cbf78859
+      internalID: -6237582929037173417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eef2c35d6107245bc79092a7eb8908
+      internalID: 5044139975776686535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52208a3ae30432c48aae41416ce23018
+      internalID: 1074323636228012954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4773eaa01842a9c4ea13b78b4aa3da5f
+      internalID: -6951958157509298344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7425327b7d9d924b9c33b98e603c1d1
+      internalID: 4008680432326321194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b6b4e4a9f4e442bdeddd444e37f5c
+      internalID: -4319145761284643946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a18de642935414e9abdb5d03258089
+      internalID: 8441621737993097757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d2f36cdbaef941ab4e05750e205f5
+      internalID: -3892611822077008344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c6a827d3f1bf48bd9cdaec76b8f8d
+      internalID: -2009376319244615083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3b6729f2f94845a0aef32fba601f9
+      internalID: 1415731139595513829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe0bfbb9528e743945d78001eae740
+      internalID: -7121965822074272440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd69d4e972cad4c85d6eb63a4b2cd8
+      internalID: -860511976921720981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14c18f6c7c16b44a61b5d61b100712
+      internalID: -28059000571335531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6243845d72477a4a9014191e0e7963d
+      internalID: -8721039469019404677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d402ba0a17545b4dabd0f065edb1593
+      internalID: 3277134688284687933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee07db7c4360724dbd6e35e7aa0da4e
+      internalID: -8554255971043871064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6792b81d30493e44797b86e8c4a8327f
+      internalID: -8138623832135276383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661db1995d1d4da4ca68cd06bfdebc85
+      internalID: 7876682165793890528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f9cc6acb89ece42b30d06594b6d199
+      internalID: -3963304449251587518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c227da2e4799784f9f414baa2b1de4c
+      internalID: 6062664590554967872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390b8bfc4b8a6d545b43fff7c24b9c5a
+      internalID: -5500313997615320748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929752de877f96439f22e456820e6ed
+      internalID: 5768594887212560536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c27046ae368214e909c8dc40847a3d
+      internalID: -367502419122959049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d23c129c1bac464f892907315a814b9
+      internalID: -6013855407667279337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db08d69dcad854aa4a1dda401a709c
+      internalID: 4194920780293460616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b3aa0b84fb0e4da6dc80d237524a8
+      internalID: 2291638573019527151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb0c26fd1dd1d4d91499b0dea274e7
+      internalID: -6281196518152823759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aae884a3e998cb42a53454c80570c01
+      internalID: -161328595925351873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61717ef28d17fd4f85b06014c182a18
+      internalID: -5605800830479619332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4b3c94ca47414683ee8d5683c62ee
+      internalID: 1454508755426796310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2498a44480c8394482e30c2166594f1
+      internalID: -8307023221302614939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead74a6ff14dee48ba14474f076ca1f
+      internalID: 8425850543458166824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb464d44938c44f948dd6793a480b6
+      internalID: -8755834811030347084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0953fae1a69124847b2324eae35657f3
+      internalID: 8073337934527536842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3672f230508c46d44886e817a4c79dc7
+      internalID: -3304854702527225576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bddc0193391cc84fa17b65c2a2c41d3
+      internalID: -2263148809353079052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725226491a14cf4abb9aa874f000e2e
+      internalID: -1063837777308572096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0cdfec5c89f704f923cc7d318c33cc
+      internalID: 5263188075737789885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_dark_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ab16c1a5c154468bb436b713be99f
+      internalID: -8836730094237560487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
