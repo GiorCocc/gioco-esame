@@ -15,4 +15,4 @@ The game is divided into 3 levels, of increasing difficulty (even if many points
 
 ## Information
 Made in C # language with the Unity graphics engine and with the support of the [online course on unity] (https://www.udemy.com/course/unitycourse/). All graphics and codes are open source and free to be used to improve and expand the game. From this repository it is possible to access the source files and all the Unity files in order to update and expand the game, while [here] (https://github.com/GiorCocc/gioco-esame-eseguibile-windows) it is possible to access and download the executable in order to try the game (compatibility limited to Windows, Mac and Linux are not supported by downloading only the executable but the source files present here must be compiled). \
-** The game is no longer supported in development (or at least for the time being) and there will be no corrections and / or updates from me after its release **
+**The game is no longer supported in development (or at least for the time being) and there will be no corrections and / or updates from me after its release**
